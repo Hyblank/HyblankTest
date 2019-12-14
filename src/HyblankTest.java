@@ -4,5 +4,5 @@
  */
 public class HyblankTest {
     private String name;
-    private String id;
+    private String age;
 }
